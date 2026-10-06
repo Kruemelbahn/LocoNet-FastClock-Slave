@@ -7,7 +7,7 @@
 //=== declaration of var's =======================================
 #define PRODUCT_ID SOFTWARE_ID
 static const uint8_t DEVICE_ID = 1;				// CV1: Device-ID
-static const uint8_t SW_VERSION = 8;			// CV7: Software-Version
+static const uint8_t SW_VERSION = 9;			// CV7: Software-Version
 static const uint8_t FASTCLOCK_LN = 9;    // CV8: Software-ID
 
 #if defined ETHERNET_BOARD

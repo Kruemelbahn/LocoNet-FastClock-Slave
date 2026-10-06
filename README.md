@@ -1,4 +1,4 @@
-# LocoNet-FastClock
+# LocoNet-FastClock-Slave
 
 LocoNet-FastClock is a slave-clock, which is connected to the LocoNET on modelrailroad-layouts.<br>
 The slave-clock supports several control modes, e.g. direct control or FastClock.<br>

@@ -15,7 +15,7 @@
   <version author="Michael Zimmermann" version="1" lastUpdated="20231027"/>
   <decoder>
     <family name="KS" mfg="Public-domain and DIY">
-      <model model="LocoNET-FastClock (Slave) using LNSV2" productID="9" developerID="58" />
+      <model model="LocoNET-FastClock (Slave) using LNSV2" productID="9" developerID="29" />
     </family>
     <programming direct="no" paged="no" register="no" ops="no">
         <mode>LOCONETSV2MODE</mode>
